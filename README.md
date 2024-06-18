@@ -13,7 +13,7 @@ Unlike conventional imaging with 2D array sensors featuring millions of pixels, 
 ## Outline
 <img width="618" alt="image" src="https://github.com/emrysxw/DGI-SLNN/assets/45096198/689b6a84-5768-466b-b41e-209825ea4326">
 
-## Enviroment
+## Environment
 
 ## License
 For academic and non-commercial use only.
