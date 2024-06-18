@@ -17,7 +17,7 @@ Unlike conventional imaging with 2D array sensors featuring millions of pixels, 
 <img width="618" alt="image" src="https://github.com/emrysxw/DGI-SLNN/assets/45096198/689b6a84-5768-466b-b41e-209825ea4326">
 
 ### Datasets
-One need to download the corresponding datasets and perform data preprocessing before running the demo: `Demo_spi_train.ipynb`.
+One need to download the corresponding datasets and perform data preprocessing before running the demo: `Demo_train.ipynb`.
 
 [CelebAMask-HQ](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebAMask_HQ.html)
 
