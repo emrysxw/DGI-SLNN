@@ -48,7 +48,7 @@ pytorch=2.0.1
 
 pytorch-cuda=11.8
 
-## Bonus: 
+## Bonus
 We are including a color version of the target image used in our experiment. Enjoy!
 ![IMG_2485](https://github.com/emrysxw/DGI-SLNN/assets/45096198/bbf1883e-55d2-4423-b8f9-af6e4403f4b3)
 The author retains all rights to this photograph.
